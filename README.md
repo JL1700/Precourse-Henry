@@ -1,2 +1,1 @@
-# Precourse-Henry
-este es un repositorio de prueba para el precourse de henry
+Hola esta es una prueba para ver si mi repositorio, si se va a subir a github
